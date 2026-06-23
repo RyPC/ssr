@@ -1,0 +1,8 @@
+mediapipe
+opencv-python
+numpy
+torch
+torchvision
+einops
+pyyaml
+pytest
