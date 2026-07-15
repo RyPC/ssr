@@ -1,8 +1,6 @@
 mediapipe
 opencv-python
+pillow
 numpy
 torch
-torchvision
-einops
-pyyaml
 pytest
